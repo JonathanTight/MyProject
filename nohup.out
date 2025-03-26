@@ -146,3 +146,5 @@ INFO    -  [12:41:37] Detected file changes
 INFO    -  Building documentation...
 INFO    -  [12:41:37] Reloading browsers
 INFO    -  [12:41:38] Browser connected: http://127.0.0.1:8000/
+INFO    -  [16:05:33] Browser connected: http://127.0.0.1:8000/
+INFO    -  [16:06:00] Browser connected: http://127.0.0.1:8000/
